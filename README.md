@@ -2,23 +2,25 @@
 A responsive and dynamic news application built with React and Vite, powered by the GNews API. Browse the latest headlines by category and country, with a clean UI and mobile-friendly layout.
 
 🚀 Features:
-🌐 Filter news by country
 
-📰 Switch between categories like World, Business, Tech, Health, etc.
+-🌐 Filter news by country
 
-🔍 Real-time search functionality
+-📰 Switch between categories like World, Business, Tech, Health, etc.
 
-📱 Fully responsive on all devices
+-🔍 Real-time search functionality
 
-⚡ Built with React + Vite for fast performance
+-📱 Fully responsive on all devices
 
-🎨 Styled using Bootstrap 5
+-⚡ Built with React + Vite for fast performance
 
-🛠️ Tech Stack
-React
+-🎨 Styled using Bootstrap 5
 
-Vite
+🛠️ Tech Stack:
 
-Bootstrap
+-React
 
-GNews API
+-Vite
+
+-Bootstrap
+
+-GNews API
