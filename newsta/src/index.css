@@ -1,0 +1,9 @@
+.navi-cat li{
+    cursor: pointer;
+}
+
+@media(max-width:992px){
+    .custdrop{
+        width: 300px;
+    }
+}
